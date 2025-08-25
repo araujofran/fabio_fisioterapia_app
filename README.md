@@ -2,8 +2,6 @@
 
 ### Uma ferramenta clínica interativa para auxiliar no diagnóstico e planejamento de tratamentos.
 
-![Placeholder para a imagem do seu aplicativo](https://via.placeholder.com/800x450.png?text=Insira+aqui+um+GIF+ou+imagem+do+seu+app+em+funcionamento)
-
 ---
 
 ## 💡 **Visão Geral do Projeto**
