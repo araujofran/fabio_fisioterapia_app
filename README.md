@@ -1,4 +1,4 @@
-🧠 Avaliação de Disfunção Temporomandibular e Dor Orofacial (App Fisioterapia)
+🧠 Avaliação de DTM e Dor Orofacial (App Fisioterapia)
 Uma ferramenta clínica interativa para auxiliar no diagnóstico e planejamento de tratamentos.
 💡 Visão Geral do Projeto
 Este projeto é um aplicativo web desenvolvido para otimizar a avaliação clínica de pacientes com Disfunção Temporomandibular (DTM) e Dor Orofacial (DOF). A ferramenta guia o fisioterapeuta através de um questionário detalhado, automatiza a geração de diagnósticos e sugere um plano de tratamento, tudo de forma visual e intuitiva.
@@ -63,8 +63,8 @@ O aplicativo será aberto automaticamente no seu navegador padrão.
 
 ✍️ Autor
 Francisco Ferreira de Araujo - Desenvolvedor
-www.linkedin.com/in/francisco-ferreira-de-araujo-1b432033
 
+LinkedIn
 
 Sinta-se à vontade para entrar em contato ou se conectar!
 
